@@ -16,8 +16,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Sarthak-16XO/Evently.git
-cd Evently
+git clone https://github.com/Sarthak-16XO/Youtube-Clone.git
+cd Youtube-Clone
 ```
 
 **Installation**
