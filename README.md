@@ -1,12 +1,48 @@
-# Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
+# Modern YouTube Clone Application in React JS with Material UI 5
 
-![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
+## <a name="quick-start">🤸 Quick Start</a>
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+Follow these steps to set up the project locally on your machine.
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
+**Prerequisites**
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+  
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/Sarthak-16XO/Evently.git
+cd Evently
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Set Up Environment Variables**
+
+Create a new file named `.env` in the root of your project and add the following content:
+
+```env
+REACT_APP_RAPID_API_KEY
+```
+
+Replace the placeholder values with your actual credentials 
+
+**Running the Project**
+
+```bash
+npm start
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
